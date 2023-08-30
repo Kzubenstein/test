@@ -1,1 +1,4 @@
 Name Solo
+LastName
+Job
+City
