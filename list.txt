@@ -1,2 +1,3 @@
 Name Solo
-Age 
+Age 73
+Favorite color green
